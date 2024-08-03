@@ -1,7 +1,7 @@
 {
   "name": "Pushup Exercise Routine",
   "short_name": "Pushup Routine",
-  "start_url": "/index.html",
+  "start_url": "/100-pushup-workout/index.html",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#007BFF",
